@@ -1,0 +1,118 @@
+2026-10-12 14:33:47,717 INFO [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Travel booking system is starting...
+2026-10-12 14:33:47,719 ERROR [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Unable to calculate booking price.
+edu.psu.se411.lab07_polymorphism.exceptions.MissingInformationException: Luggage weight has not been provided.
+	at edu.psu.se411.lab07_polymorphism.model.FlightBooking.computeTotalPrice(FlightBooking.java:36)
+	at edu.psu.se411.lab07_polymorphism.App.main(App.java:56)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod(AbstractExecJavaBase.java:402)
+	at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod(ExecJavaMojo.java:142)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader(AbstractExecJavaBase.java:377)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0(AbstractExecJavaBase.java:287)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-10-12 14:33:47,722 INFO [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Travel booking system is stopping.
+2026-10-12 14:35:57,894 INFO [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Travel booking system is starting...
+2026-10-12 14:35:57,897 ERROR [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Invalid flight booking information.
+edu.psu.se411.lab07_polymorphism.exceptions.InvalidArgumentException: Luggage weight must be between 0 and 40 kg.
+	at edu.psu.se411.lab07_polymorphism.model.FlightBooking.computeTotalPrice(FlightBooking.java:42)
+	at edu.psu.se411.lab07_polymorphism.App.main(App.java:61)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod(AbstractExecJavaBase.java:402)
+	at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod(ExecJavaMojo.java:142)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader(AbstractExecJavaBase.java:377)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0(AbstractExecJavaBase.java:287)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-10-12 14:35:57,900 ERROR [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Unable to calculate booking price.
+edu.psu.se411.lab07_polymorphism.exceptions.MissingInformationException: Luggage weight has not been provided.
+	at edu.psu.se411.lab07_polymorphism.model.FlightBooking.computeTotalPrice(FlightBooking.java:36)
+	at edu.psu.se411.lab07_polymorphism.App.main(App.java:69)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod(AbstractExecJavaBase.java:402)
+	at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod(ExecJavaMojo.java:142)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader(AbstractExecJavaBase.java:377)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0(AbstractExecJavaBase.java:287)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-10-12 14:35:57,901 INFO [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Travel booking system is stopping.
+2026-10-12 14:37:53,364 INFO [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Travel booking system is starting...
+2026-10-12 14:37:53,366 ERROR [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Invalid flight booking information.
+edu.psu.se411.lab07_polymorphism.exceptions.InvalidArgumentException: Luggage weight must be between 0 and 40 kg.
+	at edu.psu.se411.lab07_polymorphism.model.FlightBooking.computeTotalPrice(FlightBooking.java:42)
+	at edu.psu.se411.lab07_polymorphism.App.main(App.java:61)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod(AbstractExecJavaBase.java:402)
+	at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod(ExecJavaMojo.java:142)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader(AbstractExecJavaBase.java:377)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0(AbstractExecJavaBase.java:287)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-10-12 14:37:53,370 ERROR [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Invalid train booking information.
+edu.psu.se411.lab07_polymorphism.exceptions.InvalidArgumentException: Train distance must be between 1 and 2000 km.
+	at edu.psu.se411.lab07_polymorphism.model.TrainBooking.computeTotalPrice(TrainBooking.java:47)
+	at edu.psu.se411.lab07_polymorphism.App.main(App.java:75)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod(AbstractExecJavaBase.java:402)
+	at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod(ExecJavaMojo.java:142)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader(AbstractExecJavaBase.java:377)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0(AbstractExecJavaBase.java:287)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-10-12 14:37:53,371 ERROR [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Unable to calculate booking price.
+edu.psu.se411.lab07_polymorphism.exceptions.MissingInformationException: Luggage weight has not been provided.
+	at edu.psu.se411.lab07_polymorphism.model.FlightBooking.computeTotalPrice(FlightBooking.java:36)
+	at edu.psu.se411.lab07_polymorphism.App.main(App.java:83)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod(AbstractExecJavaBase.java:402)
+	at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod(ExecJavaMojo.java:142)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader(AbstractExecJavaBase.java:377)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0(AbstractExecJavaBase.java:287)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-10-12 14:37:53,372 INFO [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Travel booking system is stopping.
+2026-10-12 14:39:14,346 INFO [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Travel booking system is starting...
+2026-10-12 14:39:14,348 ERROR [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Invalid flight booking information.
+edu.psu.se411.lab07_polymorphism.exceptions.InvalidArgumentException: Luggage weight must be between 0 and 40 kg.
+	at edu.psu.se411.lab07_polymorphism.model.FlightBooking.computeTotalPrice(FlightBooking.java:42)
+	at edu.psu.se411.lab07_polymorphism.App.main(App.java:61)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod(AbstractExecJavaBase.java:402)
+	at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod(ExecJavaMojo.java:142)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader(AbstractExecJavaBase.java:377)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0(AbstractExecJavaBase.java:287)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-10-12 14:39:14,352 ERROR [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Invalid train booking information.
+edu.psu.se411.lab07_polymorphism.exceptions.InvalidArgumentException: Train distance must be between 1 and 2000 km.
+	at edu.psu.se411.lab07_polymorphism.model.TrainBooking.computeTotalPrice(TrainBooking.java:47)
+	at edu.psu.se411.lab07_polymorphism.App.main(App.java:75)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod(AbstractExecJavaBase.java:402)
+	at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod(ExecJavaMojo.java:142)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader(AbstractExecJavaBase.java:377)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0(AbstractExecJavaBase.java:287)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-10-12 14:39:14,353 ERROR [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Invalid car rental booking information.
+edu.psu.se411.lab07_polymorphism.exceptions.InvalidArgumentException: Rental days must be between 1 and 30.
+	at edu.psu.se411.lab07_polymorphism.model.CarRentalBooking.computeTotalPrice(CarRentalBooking.java:42)
+	at edu.psu.se411.lab07_polymorphism.App.main(App.java:88)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod(AbstractExecJavaBase.java:402)
+	at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod(ExecJavaMojo.java:142)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader(AbstractExecJavaBase.java:377)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0(AbstractExecJavaBase.java:287)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-10-12 14:39:14,354 ERROR [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Unable to calculate booking price.
+edu.psu.se411.lab07_polymorphism.exceptions.MissingInformationException: Luggage weight has not been provided.
+	at edu.psu.se411.lab07_polymorphism.model.FlightBooking.computeTotalPrice(FlightBooking.java:36)
+	at edu.psu.se411.lab07_polymorphism.App.main(App.java:96)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod(AbstractExecJavaBase.java:402)
+	at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod(ExecJavaMojo.java:142)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader(AbstractExecJavaBase.java:377)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0(AbstractExecJavaBase.java:287)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-10-12 14:39:14,355 INFO [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Travel booking system is stopping.
