@@ -1,0 +1,23 @@
+2026-10-12 15:32:37,392 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.App - Application is starting...
+2026-10-12 15:32:37,398 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Temperature reading changed to 23.182034122595464
+2026-10-12 15:32:37,399 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Humidity reading changed to 42.63940694229954
+2026-10-12 15:32:38,416 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Temperature reading changed to 22.28741232083456
+2026-10-12 15:32:38,417 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Humidity reading changed to 47.2066288190723
+2026-10-12 15:32:39,427 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Temperature reading changed to 32.450249393375245
+2026-10-12 15:32:39,429 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Humidity reading changed to 56.769814698677166
+2026-10-12 15:32:40,436 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Temperature reading changed to 21.271339003754335
+2026-10-12 15:32:40,437 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Humidity reading changed to 54.62497369851937
+2026-10-12 15:32:41,445 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Temperature reading changed to 20.332968917712645
+2026-10-12 15:32:41,447 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Humidity reading changed to 49.57337884821141
+2026-10-12 15:32:42,455 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Temperature reading changed to 26.465389352987078
+2026-10-12 15:32:42,458 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Humidity reading changed to 57.90331936125872
+2026-10-12 15:32:43,473 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Temperature reading changed to 23.257079522291896
+2026-10-12 15:32:43,474 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Humidity reading changed to 43.519555453701116
+2026-10-12 15:32:44,484 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Temperature reading changed to 25.427366332881554
+2026-10-12 15:32:44,485 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Humidity reading changed to 57.51917648719315
+2026-10-12 15:32:45,495 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Temperature reading changed to 34.374905746577035
+2026-10-12 15:32:45,495 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Humidity reading changed to 47.87485923336506
+2026-10-12 15:32:46,507 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Temperature reading changed to 26.03053576624813
+2026-10-12 15:32:46,509 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Humidity reading changed to 59.18161036172988
+2026-10-12 15:32:47,522 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.LoggerObserver - Temperature reading changed to 30.0
+2026-10-12 15:32:47,523 INFO [edu.spu.se411.lab08.App.main()] edu.spu.se411.lab08.App - Application is stopping.
